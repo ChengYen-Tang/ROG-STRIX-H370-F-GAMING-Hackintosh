@@ -82,46 +82,6 @@
 					<key>Comment</key>
 					<string>Fix RTC _STA bug</string>
 				</dict>
-				<dict>
-					<key>Find</key>
-					<data>RUhDMQ==</data>
-					<key>Replace</key>
-					<data>RUgwMQ==</data>
-					<key>Disabled</key>
-					<false/>
-					<key>Comment</key>
-					<string>Rename EHC1 to EH01 (USB)</string>
-				</dict>
-				<dict>
-					<key>Find</key>
-					<data>RUhDMg==</data>
-					<key>Replace</key>
-					<data>RUgwMg==</data>
-					<key>Disabled</key>
-					<false/>
-					<key>Comment</key>
-					<string>Rename EHC2 to EH02 (USB)</string>
-				</dict>
-				<dict>
-					<key>Find</key>
-					<data>WEhDSQ==</data>
-					<key>Replace</key>
-					<data>WEhDXw==</data>
-					<key>Disabled</key>
-					<false/>
-					<key>Comment</key>
-					<string>Rename XHCI to XHC (USB)</string>
-				</dict>
-				<dict>
-					<key>Find</key>
-					<data>WEhDMQ==</data>
-					<key>Replace</key>
-					<data>WEhDXw==</data>
-					<key>Disabled</key>
-					<false/>
-					<key>Comment</key>
-					<string>Rename XHC1 to XHC (USB)</string>
-				</dict>
 			</array>
 			<key>Fixes</key>
 			<dict>
@@ -355,62 +315,6 @@
 				<false/>
 				<key>Comment</key>
 				<string>USB Port limit patch #2 10.15.x modify by DalianSky</string>
-				<key>InfoPlistPatch</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>Find</key>
-				<data>g/sPDw==</data>
-				<key>Name</key>
-				<string>com.apple.iokit.IOUSBHostFamily</string>
-				<key>Replace</key>
-				<data>g/s/Dw==</data>
-				<key>Disabled</key>
-				<true/>
-				<key>Comment</key>
-				<string>USB port limit patch #1/4 10.14.x modify by DalianSky (credit ydeng)</string>
-				<key>InfoPlistPatch</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>Find</key>
-				<data>g+MP0w==</data>
-				<key>Name</key>
-				<string>com.apple.iokit.IOUSBHostFamily</string>
-				<key>Replace</key>
-				<data>g+M/0w==</data>
-				<key>Disabled</key>
-				<true/>
-				<key>Comment</key>
-				<string>USB port limit patch #2/4 10.14.x modify by DalianSky (credit PMHeart)</string>
-				<key>InfoPlistPatch</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>Find</key>
-				<data>g/sPDw==</data>
-				<key>Name</key>
-				<string>com.apple.driver.usb.AppleUSBXHCI</string>
-				<key>Replace</key>
-				<data>g/s/Dw==</data>
-				<key>Disabled</key>
-				<true/>
-				<key>Comment</key>
-				<string>USB Port limit patch #3/4 10.14.x modify by DalianSky (credit PMheart)</string>
-				<key>InfoPlistPatch</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>Find</key>
-				<data>g/8PDw==</data>
-				<key>Name</key>
-				<string>com.apple.driver.usb.AppleUSBXHCI</string>
-				<key>Replace</key>
-				<data>g/8/Dw==</data>
-				<key>Disabled</key>
-				<true/>
-				<key>Comment</key>
-				<string>USB Port limit patch #4/4 10.14.x modify by DalianSky (credit PMheart)</string>
 				<key>InfoPlistPatch</key>
 				<false/>
 			</dict>
