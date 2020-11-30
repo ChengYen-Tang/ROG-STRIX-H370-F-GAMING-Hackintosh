@@ -14,9 +14,6 @@
 - Graphics: ROG STRIX-RX470-O4G-GAMING
 - Clover r5127
 
-## 已知問題:
-1. USB3 無法驅動
-
 ## 歷史版本:
-- [10.15.x](https://github.com/ChengYen-Tang/Hackintosh/tree/4a6dbf9703a9e7387d2796bfa0283a211f32d45f)
-- [10.14.6](https://github.com/ChengYen-Tang/Hackintosh/tree/2c2ffbc8561eb157fc95d8c7d39116bd3a8252b9)
+- [10.15.x](https://github.com/ChengYen-Tang/ROG-STRIX-H370-F-GAMING-Hackintosh/tree/4a6dbf9703a9e7387d2796bfa0283a211f32d45f)
+- [10.14.6](https://github.com/ChengYen-Tang/ROG-STRIX-H370-F-GAMING-Hackintosh/tree/2c2ffbc8561eb157fc95d8c7d39116bd3a8252b9)
