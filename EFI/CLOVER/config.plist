@@ -378,21 +378,21 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>07/05/2021</string>
+		<string>09/25/2021</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IMP11.88Z.F000.B00.2107050205</string>
+		<string>IM191.88Z.F000.B00.2109250617</string>
 		<key>Board-ID</key>
-		<string>Mac-7BA5B2D9E42DDD94</string>
+		<string>Mac-AA95B1DDAB278B95</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02705802J9JG36JA</string>
+		<string>C02909500QXLNV91H</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
-		<string>iMacPro1,1</string>
+		<string>iMac19,1</string>
 		<key>ChassisAssetTag</key>
 		<string>Asset Tag#</string>
 		<key>ChassisManufacturer</key>
@@ -400,13 +400,17 @@
 		<key>ChassisType</key>
 		<string>0xD</string>
 		<key>EfiVersion</key>
-		<string>1715.0.57.0.0</string>
+		<string>1715.40.15.0.0</string>
+		<key>ExtendedFirmwareFeatures</key>
+		<string>0x00000008FD8FF576</string>
+		<key>ExtendedFirmwareFeaturesMask</key>
+		<string>0x00000008FFDFFF7F</string>
 		<key>Family</key>
 		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFD8FF53E</string>
+		<string>0xFD8FF576</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFF9FFF3F</string>
+		<string>0xFFDFFF7F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -414,11 +418,11 @@
 		<key>PlatformFeature</key>
 		<string>0x20</string>
 		<key>ProductName</key>
-		<string>iMacPro1,1</string>
+		<string>iMac19,1</string>
 		<key>SerialNumber</key>
-		<string>C02T6061HX87</string>
+		<string>C02YCVZ2JV3Q</string>
 		<key>SmUUID</key>
-		<string>1AE26323-1898-4700-A5C5-5D9982E5F7AA</string>
+		<string>61845B9A-655C-4D57-B692-083F5D6D122A</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
