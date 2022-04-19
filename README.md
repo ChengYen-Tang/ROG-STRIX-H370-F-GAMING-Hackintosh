@@ -4,7 +4,7 @@
 <img src="./Img/002.png" alt="drawing" width="400"/>
 
 ## 系統版本:
-- Big Sur 12.1
+- Big Sur 12.3.1
 
 ## 配置：
 - CPU: i7-8700
@@ -13,9 +13,10 @@
 - SSD: Intel 760P 512G
 - Graphics: ROG STRIX-RX470-O4G-GAMING
 - BIOS: 3101
-- Clover: r5142
+- Clover: r5146
 
 ## 歷史版本:
+- [12.1](https://github.com/ChengYen-Tang/ROG-STRIX-H370-F-GAMING-Hackintosh/tree/78576eb89ce3ee682756e965ef11462529952df2)
 - [12.0.1](https://github.com/ChengYen-Tang/ROG-STRIX-H370-F-GAMING-Hackintosh/tree/a9403b9e5264432a28b43a9a2c3a3d23bf984a86)
 - [11.5](https://github.com/ChengYen-Tang/ROG-STRIX-H370-F-GAMING-Hackintosh/tree/16abd792a5ac125c8cf7622d795fe4d28f4e3ee9)
 - [11.3](https://github.com/ChengYen-Tang/ROG-STRIX-H370-F-GAMING-Hackintosh/tree/32970aeeb07466b6f9c729df0828c749db921a8e)
